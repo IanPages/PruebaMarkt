@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.background{
+    background-color: rgb(185, 183, 183);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+.divgrid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: start;
+    padding:1rem;
+    flex-wrap: wrap; 
+    align-items: center;
+}
+
+a{
+    color:white;
+}
+.bold{
+    font-weight: bold;
+}

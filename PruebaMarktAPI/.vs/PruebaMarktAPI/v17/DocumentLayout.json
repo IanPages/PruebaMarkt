@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:models\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\data\\pruebamarktusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:data\\pruebamarktusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|c:\\users\\ianpa\\desktop\\2dawa\\canaryskills\\backendtest\\pruebamarktapi\\controller\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445DEC35-BD29-4F19-9140-E3E740D20E06}|PruebaMarktAPI.csproj|solutionrelative:controller\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Models\\Auth.cs",
+              "RelativeDocumentMoniker": "Models\\Auth.cs",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Models\\Auth.cs",
+              "RelativeToolTip": "Models\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:36:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pruebamarktuserContext.cs",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Data\\pruebamarktuserContext.cs",
+              "RelativeDocumentMoniker": "Data\\pruebamarktuserContext.cs",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Data\\pruebamarktuserContext.cs",
+              "RelativeToolTip": "Data\\pruebamarktuserContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:22:18.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:35:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T12:43:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T12:43:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T12:43:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "categoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Controller\\categoriasController.cs",
+              "RelativeDocumentMoniker": "Controller\\categoriasController.cs",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Controller\\categoriasController.cs",
+              "RelativeToolTip": "Controller\\categoriasController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:37:49.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ianpa\\Desktop\\2DAWA\\CanarySkills\\BackendTest\\PruebaMarktAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:39:20.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

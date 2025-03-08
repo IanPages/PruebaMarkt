@@ -1,0 +1,11 @@
+.background{
+    background-color: blueviolet;
+}
+
+.linkhover{
+    color:white;
+    transition-duration: 0.5s;
+}
+.linkhover:hover{
+    color:black;
+}

@@ -1,0 +1,14 @@
+h1{
+    font-weight: 600;
+}
+.background{
+    background-color:rgb(173, 172, 172);
+    margin: 2rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    
+}
+.registerbtn{
+    font-weight: 600;
+    font-size: large;
+}

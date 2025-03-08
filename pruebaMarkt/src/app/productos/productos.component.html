@@ -1,0 +1,16 @@
+<div>
+    <h1>Productos</h1>
+    <div class="divgrid">
+        <div *ngFor="let producto of productos" class="divgriditem background">
+            <div>
+                <img alt="ALT Imagen de {{producto.nombre}}" />
+            </div>
+            <div>
+                <h2 class="bold">{{producto.nombre}}</h2>
+                <p><span class="bold">Descripción: </span>{{producto.descripcion}}</p>
+                <p><span class="bold">Valoración: </span>{{producto.valoracion}}/5</p>
+                <button class="btn btn-success"><a href="/carrito">Agregar al carrito</a></button>
+            </div>
+        </div>
+    </div>
+</div>

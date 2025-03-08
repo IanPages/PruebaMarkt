@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand background" style="justify-content: start;padding:1rem;flex-wrap: wrap; align-items: center;">
+  <a class="navbar-brand" href="">PruebaMarkt</a>
+  <div class="collapse navbar-collapse" id="navbarText">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link linkhover" href="/ventas">Ventas</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link linkhover" href="/productos">Productos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link linkhover" href="/categorias">Categorias</a>
+      </li>
+    </ul>
+  </div>
+  <ul class="navbar-nav mr-auto" style=" justify-content: end;">
+    <li class="nav-item" *ngIf="loggedin()">
+      <a class="nav-link linkhover" (click)="logout()">Logout</a>
+    </li>
+    <li class="nav-item" *ngIf="!loggedin()">
+      <a class="nav-link linkhover" href="/login">Login</a>
+    </li>
+    <li class="nav-item" *ngIf="!loggedin()">
+      <a class="nav-link linkhover" href="/register">Register</a>
+    </li>
+  </ul>
+</nav>
+<router-outlet/>
+<footer class="py-3 my-4 background text-center">
+  <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+    <li class="nav-item"><a href="" class="nav-link px-2 linkhover">PruebaMarkt</a></li>
+    <li class="nav-item"><a href="/ventas" class="nav-link px-2  linkhover">Ventas</a></li>
+    <li class="nav-item"><a href="/productos" class="nav-link px-2  linkhover">Productos</a></li>
+    <li class="nav-item"><a href="/categorias" class="nav-link px-2  linkhover">Categorias</a></li>
+  </ul>
+  <p class="text-center  linkhover">© 2025 PruebaMarkt, Inc</p>
+</footer>
+
+
+
+

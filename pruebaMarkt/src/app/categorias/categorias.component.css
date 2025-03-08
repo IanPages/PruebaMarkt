@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    border:1px solid red;
+}
+.background{
+    background-color: rgb(185, 183, 183);
+    
+}
+.divgrid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
